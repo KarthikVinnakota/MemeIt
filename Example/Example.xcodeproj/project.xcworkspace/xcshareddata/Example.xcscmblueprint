@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C73ACD956E4ADD22B3F0AB1A2DB7A119E48C4985",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C73ACD956E4ADD22B3F0AB1A2DB7A119E48C4985" : 0,
+    "6A6D8F8F5E0F62607E2A42786EB1D7E11FFFE579" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "600EA1F9-BC2E-496D-B315-BDA993E977E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C73ACD956E4ADD22B3F0AB1A2DB7A119E48C4985" : "",
+    "6A6D8F8F5E0F62607E2A42786EB1D7E11FFFE579" : "SIFloatingCollection_Swift"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ProudOfZiggy\/SIFloatingCollection_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A6D8F8F5E0F62607E2A42786EB1D7E11FFFE579"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KarthikVinnakota\/MemeIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C73ACD956E4ADD22B3F0AB1A2DB7A119E48C4985"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KarthikVinnakota\/MemeIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C73ACD956E4ADD22B3F0AB1A2DB7A119E48C4985"
+    }
+  ]
+}
