@@ -26,11 +26,7 @@ class BubbleNode: SIFloatingNode, UITextFieldDelegate {
         
         
         let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(self.touchesBegan(_:withEvent:)))
-<<<<<<< HEAD
-//        node.addGestureRecognizer(tap)
-=======
-        node.addGestureRecognizer(tap)
->>>>>>> origin/master
+
         
 
         
